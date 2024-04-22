@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 97%);
+}
+#search {
+    margin: 8px;
+    padding: 8px 32px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 22px;
+    background-color: white;
+    box-shadow: hsla(0, 0%, 66%, 0.2) 0px 8px 24px;
+}
+.button {
+    display: block;
+    margin: 8px;
+    padding: 8px 32px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    box-shadow: hsla(0, 0%, 66%, 0.2) 0px 8px 24px;
+    transition-duration: 0.2s;
+}
+.button:hover {
+    box-shadow: hsla(0, 0%, 66%, 0.4) 0px 8px 24px;
+}
+#exhentai {
+    background-color: hsl(220, 7%, 33%);
+}
+#exhentai:hover {
+    background-color: hsl(220, 7%, 28%);
+}
+#\31 8comic {
+    background-color: hsl(29, 100%, 50%);
+}
+#\31 8comic:hover {
+    background-color: hsl(29, 100%, 45%);
+}
+#dlsite {
+    background-color: hsl(222, 93%, 27%);
+}
+#dlsite:hover {
+    background-color: hsl(222, 93%, 22%);
+}
+#pixiv {
+    background-color: hsl(204, 100%, 49%);
+}
+#pixiv:hover {
+    background-color: hsl(204, 100%, 44%);
+}
+#sukebei {
+    background-color: hsl(0, 0%, 13%);
+}
+#sukebei:hover {
+    background-color: hsl(0, 0%, 8%);
+}
